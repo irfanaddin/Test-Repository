@@ -21,8 +21,6 @@ if wants_to_play == "yes":
 ####################
       
 LVL1A = input("This is LVL1A. A. correct or B. incorrect").upper()
-
-  
 if LVL1A == "A":
     LVL2A = input("This is LVL2A. A. correct or B. incorrect").upper()
     score += 100
